@@ -1,7 +1,7 @@
 # Mantis自動化システム
 
 MantisBTの課題更新をSlackへリアルタイムで通知し、全データをGoogle Sheetsに同期して日本語検索を可能にする社内向け自動化プロジェクトです。
-
+[demo.mp4](./demo.mp4)
 <br>
 
 ## プロジェクトの構成
