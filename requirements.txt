@@ -1,0 +1,13 @@
+# --- Web/APIリクエスト 및 データ抽出 ---
+requests
+feedparser
+beautifulsoup4
+selenium
+
+# --- 通知 및 翻訳 ---
+slack_sdk
+boto3
+
+# --- その他ユーティリティ ---
+python-dotenv
+pytz
